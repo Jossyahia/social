@@ -1,7 +1,7 @@
 {
   "name": "only-food",
   "version": "1.0.0",
-  "description": "100Devs Social Network",
+  "description": "just food Social Network",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
@@ -33,5 +33,14 @@
   "keywords": [
     "just",
     "food"
-  ]
+  ],
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jossyahia/social.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jossyahia/social/issues"
+  },
+  "homepage": "https://github.com/Jossyahia/social#readme"
 }
